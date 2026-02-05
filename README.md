@@ -8,7 +8,7 @@
   - CompTIA Security+
 <br> - CompTIA A+<br>
   - CompTIA Data+
-
+<h2>  Skills: </h2>
 
 <h2> 🤳 Connect with me:</h2>
 
