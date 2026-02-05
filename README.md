@@ -5,9 +5,9 @@
   - [Active Directory Home Lab]
 
 <h2>🎖️ Certifications </h2>
-  - CompTIA Security+
-<br> - CompTIA A+<br>
-  - CompTIA Data+
+  - CompTIA Security+ (2025)
+<br> - CompTIA A+   (2022) <br> 
+  - CompTIA Data+ (2024)
 <h2>  Skills: </h2>
 
 <h2> 🤳 Connect with me:</h2>
