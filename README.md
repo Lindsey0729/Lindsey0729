@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab]
+  - [Network Intrusion Detection Analysis Using Wireshark]
 
 <h2>🎖️ Certifications </h2>
 <table>
@@ -22,8 +23,7 @@
 
 
 <h2>  Skills: </h2>
-<h2> Projects: </h2>
-- Network Intrusion Detection Analysis Using Wireshark
+
 
 <h2> 🤳 Connect with me:</h2>
 
