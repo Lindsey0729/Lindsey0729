@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab]
-  - [Network Intrusion Detection Analysis Using Wireshark]
+  - Active Directory Home Lab
+  - Network Intrusion Detection Analysis Using Wireshark
 
 <h2>🎖️ Certifications </h2>
 <table>
