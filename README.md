@@ -22,7 +22,23 @@
 </table>
 
 
-<h2>  Skills: </h2>
+## 💻 Skills
+
+### Technical Skills
+**Networking & OS:**  
+<img src="https://img.shields.io/badge/TCP%2FIP-blue?style=for-the-badge&logo=internet" alt="TCP/IP Badge" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" />
+
+**Cybersecurity Fundamentals:**  
+<img src="https://img.shields.io/badge/Security+-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" />
+<img src="https://img.shields.io/badge/Vulnerability%20Scanning-FF4500?style=for-the-badge" alt="Vuln Scanning Badge" />
+<img src="https://img.shields.io/badge/Incident%20Response-008080?style=for-the-badge" alt="Incident Response Badge" />
+
+**Tools & Scripting:**  
+<img src="https://img.shields.io/badge/Wireshark-1DA1F2?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark Badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Badge" />
 
 
 <h2> 🤳 Connect with me:</h2>
