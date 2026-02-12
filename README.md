@@ -5,9 +5,22 @@
   - [Active Directory Home Lab]
 
 <h2>🎖️ Certifications </h2>
-  - CompTIA Security+ (2025)
-<br> - CompTIA A+   (2022) <br> 
-  - CompTIA Data+ (2024)
+<table>
+  <tr>
+    <td><strong>CompTIA Security+ (2025)</strong></td>
+    <td><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge"></td>
+  </tr>
+  <tr>
+    <td><strong>CompTIA A+ (2022)</strong></td>
+    <td><img src="https://img.shields.io/badge/-A%2B-CC0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="A+ Badge"></td>
+  </tr>
+  <tr>
+    <td><strong>CompTIA Data+ (2024)</strong></td>
+    <td><img src="https://img.shields.io/badge/-Data%2B-990000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Data+ Badge"></td>
+  </tr>
+</table>
+
+
 <h2>  Skills: </h2>
 <h2> Projects: </h2>
 
