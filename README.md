@@ -9,6 +9,7 @@
 <br> - CompTIA A+   (2022) <br> 
   - CompTIA Data+ (2024)
 <h2>  Skills: </h2>
+<h2> Projects: </h2>
 
 <h2> 🤳 Connect with me:</h2>
 
