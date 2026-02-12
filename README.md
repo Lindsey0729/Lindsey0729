@@ -23,6 +23,7 @@
 
 <h2>  Skills: </h2>
 <h2> Projects: </h2>
+- Network Intrusion Detection Analysis Using Wireshark
 
 <h2> 🤳 Connect with me:</h2>
 
