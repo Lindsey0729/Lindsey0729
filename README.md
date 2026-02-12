@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lindsey
+<h1>Hello, I'm Lindsey
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
