@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - **Active Directory** - Home Lab
-  - **Wireshark** – Network Intrusion Detection Analysis 
+  - <a href="https://github.com/Lindsey0729/Wireshark-Network-Intrusion-Detection-Analysis/tree/main">  Wireshark Network Intrusion Detection Analysis</a>
   - **Python** – Security Automation Scripts
 
 
