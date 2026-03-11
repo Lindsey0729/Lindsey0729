@@ -4,7 +4,7 @@
 
   - **Active Directory** - Home Lab
   - <a href="https://github.com/Lindsey0729/Wireshark-Network-Intrusion-Detection-Analysis/tree/main">  Wireshark Network Intrusion Detection Analysis</a>
-  - **Python** – Security Automation Scripts
+  - **Python** – File Integrity Monitor (FIM)
 
 
 <h2>🎖️ Certifications </h2>
