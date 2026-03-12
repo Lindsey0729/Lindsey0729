@@ -4,7 +4,7 @@
 
   - **Active Directory** - Home Lab
   - <a href="https://github.com/Lindsey0729/Wireshark-Network-Intrusion-Detection-Analysis/tree/main">  Wireshark Network Intrusion Detection Analysis</a>
-  - **Python** – File Integrity Monitor (FIM)
+  - <a href="https://github.com/Lindsey0729/python-file-integrity-monitor"> **Python** – File Integrity Monitor (FIM)</a>
 
 
 <h2>🎖️ Certifications </h2>
